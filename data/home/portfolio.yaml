@@ -2,38 +2,26 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+ # - image: "images/portfolio-ecommerce.png"
+    pretitle: "Nos Services"
+    title: "Gestion Administrative et Comptable"
+    text: "Chef d’entreprise · Femme chef d’entreprise, Manager·euse de PME-PMI, Profession libérale, bénéficiez de conseil et d’un accompagnement sur mesure dans votre gestion administrative et comptable."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+  # buttons: 
+  #   - label: "See live"
+  #     url: "#"
 
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+  #   - label: "Read more"
+  #     url: "#"
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Sécurité Informatique"
+    text: "Vous souhaitez un protéger vos données, vos infrastructures, matériels et logiciels ou vous êtes simplement à la recherche d'un avis ou conseil en cyberseécurité? T4C est là pour vous et vous aide à préserver au mieux vos données grâce à un accompagnement complet en matière de sécurité informatique."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+  # buttons: 
+  #   - label: "See live"
+  #     url: "#"
 
-      - label: "Read more"
-        url: "#"
+  #   - label: "Read more"
+  #     url: "#"
