@@ -7,21 +7,7 @@ content:
     title: "Gestion Administrative et Comptable"
     text: "Chef·fe d’entreprise, Manager·euse de PME-PMI, Profession libérale, bénéficiez de conseil et d’un accompagnement sur mesure dans votre gestion administrative et comptable."
 
-  # buttons: 
-  #   - label: "See live"
-  #     url: "#"
-
-  #   - label: "Read more"
-  #     url: "#"
-
   - image: ""
     pretitle: ""
     title: "Sécurité Informatique"
     text: "Vous souhaitez protéger vos données, vos infrastructures, matériels et logiciels ou vous êtes simplement à la recherche d'un avis ou d'un conseil en cyberseécurité? T4C est là pour vous et vous aide à préserver au mieux vos données grâce à un accompagnement complet en matière de sécurité informatique."
-
-  # buttons: 
-  #   - label: "See live"
-  #     url: "#"
-
-  #   - label: "Read more"
-  #     url: "#"
