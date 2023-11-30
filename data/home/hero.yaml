@@ -11,5 +11,5 @@ content:
 
   buttonSecondary:
     label: "Contactez-nous"
-    url: "#"
+    url: "mailto:contact@timeline4change.com"
 
