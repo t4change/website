@@ -1,4 +1,4 @@
-baseURL: "https://www.timeline4change.com/"
+baseURL: "https://timeline4change.com"
 theme: "up-business-theme"
 languageCode: "en-us"
 
@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Timeline 4 Change"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "Votre partenaire préférentiel"
   images: 
     - "images/hero-image.png"
 
