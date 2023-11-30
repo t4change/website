@@ -2,26 +2,13 @@ enabled: true
 id: "testimonials"
 
 content:
-#  title: "Testimonials"
+  title: "Temoignages"
 
-#  featured:
-#    image: "images/testimonials-awards.png"
-#    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-#    client: "Anonymous Customer"
+  featured:
+    image: "images/testimonials-awards.png"
+    text: "Petula m'a aidé dans la phase de création de mon entreprise. J'ai été accompagnée dans le choix et la rédaction de mes status mais aussi dans l'enregistement au greffe. Elle m'a aussi donné de précieux conseils pour sécuriser mes données et me protéger de cyberattaques dans le futur."
+    client: "Client Anonymes"
 
-#  list:
-#    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-#      client: "Anonymous Customer"
-#
-#    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-#      client: "Anonymous Customer"
-#
-#    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-#      client: "Anonymous Customer"
-#
-#    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-#      client: "Anonymous Customer"
-#
-#    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-#      client: "Anonymous Customer"
-#
+  list:
+    - text: "J'avais de nombreuses relances de l'URSAFF sans savois comment les traiter. Un ami m'a conseillé de faire appel à T4C pour un diagnostic. Je l'ai fait et cela s'est très bien passé. Après deux semaines, j'ai eu un retour de l'URSAFF et j'ai pu trouver une solution pour continuer mon activité."
+      client: "Client Anonymes"
