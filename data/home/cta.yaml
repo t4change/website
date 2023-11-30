@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
-  image: "images/services-web-development.png"
+  title: "Contactez-nous!"
+  image: ""
   button:
-    label: "Let's talk"
-    url: "#"
+    label: "contact@timeline4change.com"
+    url: "mailto:contact@timeline4change.com"
