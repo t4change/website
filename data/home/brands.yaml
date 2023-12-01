@@ -2,7 +2,7 @@ enabled: true
 id: "brands"
 
 content:
-  title: "Nous accompagnons avec les TPE, les PME et les administrations face aux défis actuels grâce à une expertise inégalée."
+  title: "Nous accompagnons avec les TPE, les PME et les administrations face aux défis actuels grâce à une combisaison inédite d'expertises!"
   items:
    # - "images/brands-samsumg.png"
     - "images/brands-google.png"
