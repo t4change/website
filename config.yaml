@@ -23,7 +23,7 @@ params:
 
   social:
   #  dribbble: "#"
-    instagram: "@timeline4c"
+    instagram: "https://instagram.com/p/timeline4c"
   #  facebook: "#"
   #  twitter: "#"
 
@@ -45,17 +45,17 @@ menus:
       weight: 1
 
 
-    - name: "Notre équipe"
-      url: "/#"
-      weight: 2
+  #  - name: "Notre équipe"
+  #   url: "/#"
+  #   weight: 2
 
     - name: "Prix"
       url: "/#"
       weight: 3
 
-  #  - name: "Blog"
-  #    url: "/blog"
-  #    weight: 4
+    - name: "Notre équipe"
+      url: "/blog"
+      weight: 2
 
   buttons:
     - name: "Contactez-nous"
@@ -73,7 +73,7 @@ menus:
   #    weight: 2
 
     - name: "Notre équipe"
-      url: "/#"
+      url: "/blog"
       weight: 2
 
     - name: "Prix"
