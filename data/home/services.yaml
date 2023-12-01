@@ -4,7 +4,7 @@ id: "services"
 content:
   title: ""
   text: ""
-  cards:
+  # cards:
     - image: ""
       title: ""
       text: ""
