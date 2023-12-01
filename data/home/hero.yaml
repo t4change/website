@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Déchargez-vous des **contraintes** administratives et informatiques"
-  text: "Une expertise inégalée en assistance comptable, administrative et sécurité informatique"
+  title: "Déchargez-vous des **contraintes** **administratives** et **informatiques**"
+  text: "Une expertise inégalée en assistance comptable, administrative et sécurité informatique à votre service."
 
   buttonPrimary:
     label: "Qui sommes nous"
