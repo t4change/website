@@ -13,7 +13,7 @@ Riche d’une expérience de près de 15 ans au sein du groupe Orange, au sein d
 ****
 ## Clarisse 🔐
 ****
-Riche d’une expérience de 6 ans en tant que responsable du CERT à l’ANSSI, Clarisse a également évolué aussi bien au sein de startups que de grandes entreprises. Elle est notre **experte cybersécurité**.
+Riche d’une expérience de 6 ans en tant que responsable du CERT à l’ANSSI, Clarisse a évoluée au sein de startups et de grandes entreprises dans des rôles divers. Elle est notre **experte cybersécurité**.
 ****
 ## Robyn 🤖
 ****
