@@ -54,7 +54,7 @@ menus:
 
   buttons:
     - name: "Contactez-nous"
-      url: "contact@timeline4change.com"
+      url: "mailto:contact@timeline4change.com"
       weight: 5
       pre: "btn btn-primary text-light"
 
