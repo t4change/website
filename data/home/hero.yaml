@@ -5,9 +5,9 @@ content:
   title: "Déchargez-vous des **contraintes** **administratives** et **informatiques**"
   text: "Une expertise inégalée en assistance comptable, administrative et sécurité informatique à votre service."
 
-  buttonPrimary:
-    label: "Qui sommes nous"
-    url: "#"
+#  buttonPrimary:
+#    label: "Qui sommes nous"
+#    url: "#"
 
   buttonSecondary:
     label: "Contactez-nous"
