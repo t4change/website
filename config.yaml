@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Timeline 4 Change"
-  description: "Votre partenaire préférentiel pour un futur connecté en conformité et sécurisé"
+  description: "Votre partenaire préférentiel pour un futur connecté, sécurisé et en conformité"
   images: 
     - "images/hero-image.png"
 
