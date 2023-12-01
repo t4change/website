@@ -44,18 +44,13 @@ menus:
       url: "/#hero"
       weight: 1
 
-
-  #  - name: "Notre équipe"
-  #   url: "/#"
-  #   weight: 2
-
-    - name: "Prix"
-      url: "/#"
-      weight: 3
-
     - name: "Notre équipe"
       url: "/blog"
       weight: 2
+
+  #  - name: "Services"
+  #    url: "/#"
+  #    weight: 3
 
   buttons:
     - name: "Contactez-nous"
