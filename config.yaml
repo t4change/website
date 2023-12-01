@@ -12,7 +12,7 @@ params:
   title: "Timeline 4 Change"
   description: "Votre partenaire préférentiel pour un futur connecté, sécurisé et en conformité"
   images: 
-    - "images/hero-image.png"
+    - ""
 
   logo: "arrow-up.png"
 
