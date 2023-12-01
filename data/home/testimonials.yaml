@@ -2,7 +2,7 @@ enabled: true
 id: "testimonials"
 
 content:
-  title: "Temoignages"
+  title: "Témoignages"
 
   featured:
     image: ""
