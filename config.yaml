@@ -65,7 +65,7 @@ menus:
 
   footer:
     - name: "Acceuil"
-      url: "/#hero"
+      url: "#"
       weight: 1
 
   #  - name: "How we work"
@@ -76,9 +76,9 @@ menus:
       url: "/blog"
       weight: 2
 
-    - name: "Prix"
-      url: "/#"
-      weight: 3
+  #  - name: "Prix"
+  #    url: "/#"
+  #    weight: 3
 
   #  - name: "Blog"
   #    url: "/blog"
