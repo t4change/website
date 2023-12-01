@@ -5,7 +5,7 @@ date: 2023-08-22
 description: Une présentation rapide de nos talents
 math: false
 ---
-De Paris à Cayenne, en passant par Fort de France, notre équipe est animée par une unique ambition: simplifier le quotidien des de nos clients. 
+De Paris à Cayenne, notre équipe est animée par une unique ambition: simplifier le quotidien des de nos clients. 
 ****
 ## Petula ⭐
 ****
