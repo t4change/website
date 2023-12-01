@@ -2,7 +2,7 @@ enabled: true
 id: "brands"
 
 content:
-  title: "Nous travaillons aussi bien avec les startup, les TPE, PME que les collectivités"
+  title: "Nous travaillons avec les TPE, les PME et les administrations!"
   items:
    # - "images/brands-samsumg.png"
    # - "images/brands-google.png"
