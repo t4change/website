@@ -2,10 +2,10 @@ enabled: true
 id: "brands"
 
 content:
-  title: "Nous accompagnons avec les TPE, les PME et les administrations face aux défis actuels grâce à une expertise inégalée en comptabilité, gestion et sécurité informatique."
+  title: "Nous accompagnons avec les TPE, les PME et les administrations face aux défis actuels grâce à une expertise inégalée."
   items:
    # - "images/brands-samsumg.png"
-   # - "images/brands-google.png"
+    - "images/brands-google.png"
    # - "images/brands-adobe.png"
    # - "images/brands-spotify.png"
    # - "images/brands-dropbox.png"
