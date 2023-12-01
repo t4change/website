@@ -12,7 +12,7 @@ params:
   title: "Timeline 4 Change"
   description: "Votre partenaire préférentiel pour un futur connecté, sécurisé et en conformité"
   images: 
-    - ""
+    - "images/hero-image.png"
 
   logo: "arrow-up.png"
 
@@ -23,7 +23,7 @@ params:
 
   social:
   #  dribbble: "#"
-    instagram: "https://instagram.com/timeline4c?igshid=NGVhN2U2NjQ0Yg=="
+    instagram: "https://instagram.com/timeline4c?igshid=NGVhN2U2NjQ0Yg"
   #  facebook: "#"
   #  twitter: "#"
 
@@ -36,7 +36,7 @@ params:
     - "+594 694 243 243" 
     - "+33 7 56 88 88 97"
 
-  copyright: "© 2023 Timeline4Change All Rights Reserved"
+  copyright: "© 2023 Timeline4Change Tous Droits Réservés"
 
 menus:
   main:
@@ -68,7 +68,7 @@ menus:
   #    weight: 2
 
     - name: "Notre équipe"
-      url: "/blog"
+      url: "/post/equipe"
       weight: 2
 
   #  - name: "Prix"
