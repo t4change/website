@@ -45,7 +45,7 @@ menus:
       weight: 1
 
     - name: "Notre équipe"
-      url: "/blog"
+      url: "/post/equipe"
       weight: 2
 
   #  - name: "Services"
