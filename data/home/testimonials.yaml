@@ -5,7 +5,7 @@ content:
   title: "Témoignages"
 
   featured:
-    image: ""
+   # image: ""
     text: "J'avais de nombreuses relances de l'URSAFF sans savoir comment les traiter. Un ami m'a conseillé de faire appel à T4C pour un diagnostic et plus si affinités. Je l'ai fait. Nous avons pu rapidement convenir d'un rendez-vous et environ deux semaines après nos premiers échanges, j'ai eu un retour positif de l'URSAFF, avec des solutions concrètes me permettant de continuer mon activité sans stress."
     client: "Client Anonyme"
 
