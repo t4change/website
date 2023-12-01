@@ -8,13 +8,13 @@ content:
     - image: ""
       title: ""
       text: ""
-      button:
-        label: ""
-        url: "#"
+     # button:
+     #   label: ""
+     #   url: "#"
 
     - image: ""
       title: ""
       text: ""
-      button:
-        label: ""
-        url: "#"
+    #  button:
+    #    label: ""
+    #    url: "#"
