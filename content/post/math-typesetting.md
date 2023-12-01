@@ -1,49 +1,26 @@
 ---
-author: Hugo Authors
-title: Math Typesetting
-date: 2019-03-08
-description: A brief guide to setup KaTeX
+author: Team
+title: Notre équipe
+date: 2023-08-22
+description: Une présentation rapide de nos talents
 math: true
 ---
 
-Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
+Créé en 2023 par Petula et Clarisse, Timeline 4 Change (ou encore T4C) est une société de conseils spécialisée en comptabilité et cybersécurité. Nous allions l’expertise humaine à l’innovation afin d’offrir des services adaptés aux challenges d’aujourd’hui et de demain.
 <!--more-->
 
-In this example we will be using [KaTeX](https://katex.org/)
+De Paris à Cayenne, en passant par Fort de France, notre équipe est animée par une unique ambition: simplifier le quotidien des de nos clients. Nous sommes convaincues que la digitalisation de notre société est un levier de développement, d’innovation et de compétitivité pour les entreprises et les administrations, néanmoins elle peut aussi être synonyme d'exclusion et de risques numériques.
 
-- Create a partial under `/layouts/partials/math.html`
-- Within this partial reference the [Auto-render Extension](https://katex.org/docs/autorender.html) or host these scripts locally.
-- Include the partial in your templates like so:  
 
-```bash
-{{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
-{{ end }}
-```
+### Petula
 
-- To enable KaTex globally set the parameter `math` to `true` in a project's configuration
-- To enable KaTex on a per page basis include the parameter `math: true` in content files
+Riche d’une expérience de près de 15 ans au sein du groupe Orange, au sein duquel elle a exercé de nombreux métiers, Petula est notre Directrice générale et notre experte pour tous les sujets liés à la **comptabilité** et la **gestion** 
 
-**Note:** Use the online reference of [Supported TeX Functions](https://katex.org/docs/supported.html)
+### Clarisse
 
-{{< math.inline >}}
-{{ if or .Page.Params.math .Site.Params.math }}
-<!-- KaTeX -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
-{{ end }}
-{{</ math.inline >}}
+Riche d’une expérience de 6 ans en tant que responsable du CERT à l’ANSSI, Clarisse a également évolué aussi bien au sein de start-up que de grandes entreprises. Elle est notre experte **cybersécurité**.
 
-### Examples
 
-{{< math.inline >}}
-<p>
-Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
-</p>
-{{</ math.inline >}}
+### Robyn
 
-Block math:
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$
+Notre **chatbot conversationnel** personnalisé qui utilise l'intelligence artificielle. Iel est basé sur le modèle gpt-3.5-turbos d’OpenAI et nous aide dans nos tâches de tous les jours. Sa spécialisé reste la cybersécurité mais pourrait évoluer à l'avenir.
