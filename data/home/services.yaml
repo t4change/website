@@ -11,19 +11,19 @@ content:
       text: "Chef·fe d’entreprise, Manager·euse de PME-PMI, Profession libérale, bénéficiez de conseils et d’un accompagnement sur mesure dans votre gestion administrative et comptable. "
       button:
         label: "Contactez-nous"
-        url: "#"
+        url: "mailto:contact@timeline4change.com"
 
     - image: ""
       title: "Sécurité Informatique"
-      text: "Protégez vos données, quelque soit le terminal (téléphone, ordinateur...). Bénéficiez de conseils et d’un accompagnement sur mesure en cybersécurité (vérification rapide de vos outils, terminaux, projets...). "
+      text: "Protégez vos données, quelque soit le terminal (téléphone, ordinateur...). Bénéficiez de conseils et d’un accompagnement personnalisé en cybersécurité. "
       button:
         label: "Contactez-nous"
-        url: "#"
+        url: "mailto:contact@timeline4change.com"
 
     - image: ""
       title: "Conseil en Relations Publiques et Communication"
-      text: "Soyez accompagné(e)s sur la réalisation ou la mise en place de contenus ou événements à impact. "
+      text: "Soyez accompagné(e)s sur la réalisation de contenus ou d'événements à impact. "
       button:
         label: "Contactez-nous"
-        url: "#"
+        url: "mailto:contact@timeline4change.com"
 
