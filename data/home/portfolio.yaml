@@ -3,16 +3,16 @@ id: "portfolio"
 
 content:
   - image: ""
-    pretitle: "Gestion Administrative et Comptable"
+    pretitle: ""
     title: ""
-    text: "Chef·fe d’entreprise, Manager·euse de PME-PMI, Profession libérale, bénéficiez de conseils et d’un accompagnement sur mesure dans votre gestion administrative et comptable."
+    text: ""
 
   - image: ""
-    pretitle: "Sécurité Informatique"
+    pretitle: ""
     title: ""
-    text: "Vous souhaitez protéger vos données, quelque soit le terminal (téléphone, ordinateur...) ou vous êtes simplement à la recherche d'un conseil en cyberseécurité (vérification rapide de vos outils, terminaux, projets...)? T4C est là pour vous."
+    text: ""
 
   - image: ""
-    pretitle: "Conseil en Relations Publiques et Communication"
+    pretitle: ""
     title: ""
-    text: "Vous souhaitez être accompagné(e)s sur la réalisation ou la mise en place de contenus ou événements à impact? Contactez-nous!"
+    text: ""
