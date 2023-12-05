@@ -24,4 +24,3 @@ Riche d’une expérience de 6 ans en tant que responsable du CERT à l’ANSSI,
 ## Robyn 🤖
 ****
 Notre **chatbot conversationnel** personnalisé. Iel est basé sur le modèle gpt-3.5-turbos d’OpenAI et nous aide dans nos tâches de tous les jours. Sa spécialité est la **cybersécurité** mais ses compétences en **communication** sont exceptionnelles!
-
