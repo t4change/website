@@ -13,14 +13,14 @@ content:
         label: "Contactez-nous"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: ""
       title: "Sécurité Informatique"
       text: "Vous souhaitez protéger vos données, quelque soit le terminal (téléphone, ordinateur...) ou vous êtes simplement à la recherche d'un conseil en cyberseécurité (vérification rapide de vos outils, terminaux, projets...)? T4C est là pour vous. "
       button:
         label: "Contactez-nous"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: ""
       title: "Conseil en Relations Publiques et Communication"
       text: "Vous souhaitez être accompagné(e)s sur la réalisation ou la mise en place de contenus ou événements à impact? Contactez-nous!. "
       button:
