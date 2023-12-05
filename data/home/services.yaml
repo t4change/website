@@ -15,14 +15,14 @@ content:
 
     - image: ""
       title: "Sécurité Informatique"
-      text: "Vous souhaitez protéger vos données, quelque soit le terminal (téléphone, ordinateur...) ou vous êtes simplement à la recherche d'un conseil en cyberseécurité (vérification rapide de vos outils, terminaux, projets...)? T4C est là pour vous. "
+      text: "Protégez vos données, quelque soit le terminal (téléphone, ordinateur...). Bénéficiez de conseils et d’un accompagnement sur mesure en cybersécurité (vérification rapide de vos outils, terminaux, projets...). "
       button:
         label: "Contactez-nous"
         url: "#"
 
     - image: ""
       title: "Conseil en Relations Publiques et Communication"
-      text: "Vous souhaitez être accompagné(e)s sur la réalisation ou la mise en place de contenus ou événements à impact? Contactez-nous!. "
+      text: "Soyez accompagné(e)s sur la réalisation ou la mise en place de contenus ou événements à impact. "
       button:
         label: "Contactez-nous"
         url: "#"
