@@ -15,7 +15,7 @@ content:
 
     - image: ""
       title: "Sécurité Informatique"
-      text: "Protégez vos données, quelque soit le terminal (téléphone, ordinateur...). Bénéficiez de conseils et d’un accompagnement personnalisé en cybersécurité. "
+      text: "Protégez vos données, quelque soit le terminal (téléphone, ordinateur...) et bénéficiez de conseils et d’un accompagnement personnalisé en cybersécurité. "
       button:
         label: "Contactez-nous"
         url: "mailto:contact@timeline4change.com"
