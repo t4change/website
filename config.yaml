@@ -40,8 +40,8 @@ params:
 
 menus:
   main:
-    - name: "Acceuil"
-      url: "/#hero"
+    - name: "Accueil"
+      url: "#"
       weight: 1
 
     - name: "Notre équipe"
