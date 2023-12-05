@@ -59,7 +59,7 @@ menus:
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Acceuil"
+    - name: "Accueil"
       url: "#"
       weight: 1
 
