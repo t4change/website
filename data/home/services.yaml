@@ -1,20 +1,29 @@
+
 enabled: true
 id: "services"
 
 content:
-  title: ""
+  title: "Nos services"
   text: ""
   cards:
     - image: ""
-      title: ""
-      text: ""
-     # button:
-     #   label: ""
-     #   url: "#"
+      title: "Gestion Administrative et Comptable"
+      text: "Chef·fe d’entreprise, Manager·euse de PME-PMI, Profession libérale, bénéficiez de conseils et d’un accompagnement sur mesure dans votre gestion administrative et comptable. "
+      button:
+        label: "Contactez-nous"
+        url: "#"
 
-    - image: ""
-      title: ""
-      text: ""
-    #  button:
-    #    label: ""
-    #    url: "#"
+    - image: "images/services-web-development.png"
+      title: "Sécurité Informatique"
+      text: "Vous souhaitez protéger vos données, quelque soit le terminal (téléphone, ordinateur...) ou vous êtes simplement à la recherche d'un conseil en cyberseécurité (vérification rapide de vos outils, terminaux, projets...)? T4C est là pour vous. "
+      button:
+        label: "Contactez-nous"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Conseil en Relations Publiques et Communication"
+      text: "Vous souhaitez être accompagné(e)s sur la réalisation ou la mise en place de contenus ou événements à impact? Contactez-nous!. "
+      button:
+        label: "Contactez-nous"
+        url: "#"
+
