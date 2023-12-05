@@ -15,14 +15,14 @@ content:
 
     - image: ""
       title: "Sécurité Informatique"
-      text: "Protégez vos données, quelque soit le terminal (téléphone, ordinateur...) et bénéficiez de conseils et d’un accompagnement personnalisé en cybersécurité. "
+      text: "Protégez vos données, bénéficiez de conseils et d’un accompagnement personnalisé en cybersécurité et ce quelque soit le terminal (téléphone, ordinateur...). "
       button:
         label: "Contactez-nous"
         url: "mailto:contact@timeline4change.com"
 
     - image: ""
       title: "Conseils en Relations Publiques et Communication"
-      text: "Soyez accompagné(e)s sur la réalisation de contenus ou d'événements à impact. "
+      text: "Soyez accompagné(e)s sur la réalisation de contenus ou d'événements à impact, et ce quelque soit votre budget. "
       button:
         label: "Contactez-nous"
         url: "mailto:contact@timeline4change.com"
