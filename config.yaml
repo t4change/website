@@ -41,7 +41,7 @@ params:
 menus:
   main:
     - name: "Accueil"
-      url: "#"
+      url: "/#hero"
       weight: 1
 
     - name: "Notre équipe"
@@ -60,7 +60,7 @@ menus:
 
   footer:
     - name: "Accueil"
-      url: "#"
+      url: "/#hero"
       weight: 1
 
   #  - name: "How we work"
